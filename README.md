@@ -31,9 +31,9 @@ the scheduling algorithm deals with this distributing and storage process to ach
 
 [ &nbsp;node0(sc0,bc0), &nbsp; node1(sc1,bc1)..... , noden(scn,bcn)&nbsp;]
 
-#### 3.12 files array with file size (fs) and file request frequency (ff)
+#### 3.12 files array with file size (fz) and file request frequency (ff)
 
-[ &nbsp; file0(fs0,ff0),&nbsp; file1(fs1,ff1)&nbsp; .....,&nbsp; filen(fsn,ffn)&nbsp; ]
+[ &nbsp; file0(fz0,ff0),&nbsp; file1(fz1,ff1)&nbsp; .....,&nbsp; filen(fzn,ffn)&nbsp; ]
 
 ### 3.2 scheduling algorithm controls
 according to 3.1 varibales , scheduling algorithm will  
