@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-04-26 14:28:57
+ * @LastEditTime: 2021-04-26 16:50:55
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /meson-scheduling/README.md
+-->
 # meson-scheduling
 ### next generation content scheduling 
 \
@@ -30,6 +38,8 @@ the scheduling algorithm deals with this distributing and storage process to ach
 #### 3.11 node server array with storage capacity (sc) and bandwith capacity(bc) 
 
 [ &nbsp;node0(sc0,bc0), &nbsp; node1(sc1,bc1)..... , noden(scn,bcn)&nbsp;]
+
+data example in nodeInfoExample.xlsx & exampleDataInstruction.md
 
 #### 3.12 files array with file size (fz) and file request frequency (ff)
 
