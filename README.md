@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-26 14:28:57
- * @LastEditTime: 2021-04-26 16:50:55
+ * @LastEditTime: 2021-04-27 14:57:47
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /meson-scheduling/README.md
@@ -45,10 +45,13 @@ data example in nodeInfoExample.xlsx & exampleDataInstruction.md
 
 [ &nbsp; file0(fz0,ff0),&nbsp; file1(fz1,ff1)&nbsp; .....,&nbsp; filen(fzn,ffn)&nbsp; ]
 
+data example in fileRequestExample.xlsx & exampleDataInstruction.md
 ### 3.2 scheduling algorithm controls
 according to 3.1 varibales , scheduling algorithm will  
 control storing process and recycling process of files  over the node servers in a specific contry to achive max 
 transmition efficiency.
+
+For files with high request frequency, we need to consider increasing the number of node to cache. For the low frequency files, we want to reduce the number of node. All increases and decreases are dynamic, adjusted according to the frequency of request and the space and bandwidth of the node
 
 
 
