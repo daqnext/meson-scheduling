@@ -55,6 +55,16 @@ For files with high request frequency, we need to consider increasing the number
 
 
 
+### 4 Data samples
+The file nodeInfoExample.xlsx  shows the real statics of the nodes from https://meson.network . 
+#### 'speed_Mbs(bandwidth Mbits/s) ' shows the current bandwidth capacity.
+#### 'cdn_disk_total_GB' shows the current disk space can be used.
+#### 'cdn_space_usage' shows the already used space.
+
+
+ 
+
+
 
 
 
